@@ -15,6 +15,5 @@
 - [NeDB - Dokumentation](https://github.com/bajankristof/nedb-promises/blob/master/docs.md#Datastore)
 - [MongoDB-filter - dokumentation](https://www.mongodb.com/docs/compass/current/query/filter/?utm_source=compass&utm_medium=product)
 
-
 ## Övningar
 Hittar ni i mappen [Övningar](./Övningar/)
