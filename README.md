@@ -1,7 +1,8 @@
 # Backend med Node.js : Vecka 22
 
 ## Liveinspelningar
-Inga föreläsningar publicerade ännu...
+- [Måndag förmiddag](https://folkuniversitetet-se.zoom.us/rec/share/x2srimqINDQKUYdi9KT6wGI86xNKH3FLGVG9kNc3CTZIFxKwYyt4MZrCBwZy1TE.k0WdB6Y1av7Aqn_Y) Lösenord: #rDBTDH8
+- [Måndag eftermiddag](https://folkuniversitetet-se.zoom.us/rec/share/s2KWJKWONWv1THYWye6jPZciOmBm1NmOwh77k-vhv-rOLoYuki22ZpFIjUcSvKQ.Ji6okV4qJgNKVlwa) Lösenkod: m?W7$ZI1
 
 ## Länkar
 - [Download Nodejs](https://nodejs.org/en)
