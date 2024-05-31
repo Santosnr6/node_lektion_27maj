@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+  margin: 0; 
+  padding: 0;
+}
+
+.app {
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(to bottom, #990011, #FCF6F5);
+}
+
+.form-wrapper {
+  padding: 1rem;
+}
+
+.form-wrapper h2 {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.form * {
+  padding: 1rem;
+  border-radius: 10px;
+  border: none;
+}
+
+.form p {
+  color: white;
+  font-weight: 600;
+  padding: .5rem;
+}
+
+button {
+  cursor: pointer;
+}
+
+.profile {
+  padding: 1rem;
+  color: white;
+}
+
+.profile h1 {
+  font-size: 2rem;
+  margin-bottom: .5rem;
+}
+
+.profile p {
+  font-size: 1.25rem;
+  margin-bottom: .5rem;
+}
+
+.profile button {
+  padding: .5rem 2rem;
+  border-radius: 10px;
+  border: none;
+}
