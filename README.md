@@ -4,6 +4,9 @@
 - [Måndag förmiddag](https://folkuniversitetet-se.zoom.us/rec/share/x2srimqINDQKUYdi9KT6wGI86xNKH3FLGVG9kNc3CTZIFxKwYyt4MZrCBwZy1TE.k0WdB6Y1av7Aqn_Y) Lösenord: #rDBTDH8
 - [Måndag eftermiddag](https://folkuniversitetet-se.zoom.us/rec/share/s2KWJKWONWv1THYWye6jPZciOmBm1NmOwh77k-vhv-rOLoYuki22ZpFIjUcSvKQ.Ji6okV4qJgNKVlwa) Lösenkod: m?W7$ZI1
 
+## Efterhandsinspelning
+- [Lösning Hackaton](https://folkuniversitetet-se.zoom.us/rec/share/V9lSrj0VAx4IV5RVLSJtAgxPlM6Rq9886Us17341_h0D8Nv7kf4dfCzERV85FfOu.kIizDj-sifqeM28B) Lösenkod:E@+KG2&b
+
 ## Länkar
 - [Download Nodejs](https://nodejs.org/en)
 - [NPM](https://www.npmjs.com/)
